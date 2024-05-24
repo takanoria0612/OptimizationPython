@@ -1,1 +1,3 @@
-pulp
+puLP
+matplotlib
+numpy
